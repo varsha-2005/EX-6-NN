@@ -1,7 +1,7 @@
-<H3>NAME:ONTEDDU SIRISHA</H3>
-<H3>REG.NO:212222230103</H3>
+<H3>NAME:Varsha G</H3>
+<H3>REG.NO:212222230166</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:18.04.2024</H3>
+<H3>DATE:11.11.2024</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 
